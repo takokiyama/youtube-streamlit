@@ -1,0 +1,5 @@
+    ComputerVisionClient
+    OperationStatusCodes
+    VisualFeatureTypes
+    CognitiveServicesCredentials
+    streamlit
